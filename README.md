@@ -24,19 +24,21 @@ This project involves the 3D modeling, assembly, simulation, and rendering of a 
 ## 📸 Visual Results
 
 ### 🔹 Isometric View
-![Isometric View]([images/isometric-view.png](https://github.com/Nassor-Salum/fluid-control-valve/blob/main/Screenshot%202025-06-25%20140237.png))
+![Isometric View](https://github.com/Nassor-Salum/fluid-control-valve/blob/main/Screenshot%202025-06-25%20140122.png?raw=true)
 
 ### 🔹 Exploded View
-![Exploded View](images/exploded-view.png)
+![Exploded View](https://github.com/Nassor-Salum/fluid-control-valve/blob/main/Screenshot%202025-06-25%20140237.png?raw=true)
+
 
 ### 🔹 Rendered View
 ![Rendered Oil Valve](https://github.com/Nassor-Salum/fluid-control-valve/blob/main/Rendered%20Oil%20Valve%20(1).png?raw=true)
 
 ---
 
-## 🎞️ Animation
+### 🎞️ Disassembly Animation
 
-- [Click to watch disassembly animation]([animation/disassembly.mp4](https://github.com/Nassor-Salum/fluid-control-valve/blob/main/Oil%20Valve%20v7.avi)) *(or upload to YouTube and link here)*
+📥 [Click here to download and watch the disassembly animation (AVI)](https://github.com/Nassor-Salum/fluid-control-valve/blob/main/Oil%20Valve%20v7.avi)
+
 
 ---
 
