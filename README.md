@@ -24,7 +24,7 @@ This project involves the 3D modeling, assembly, simulation, and rendering of a 
 ## 📸 Visual Results
 
 ### 🔹 Isometric View
-![Isometric View](images/isometric-view.png)
+![Isometric View]([images/isometric-view.png](https://github.com/Nassor-Salum/fluid-control-valve/blob/main/Screenshot%202025-06-25%20140237.png))
 
 ### 🔹 Exploded View
 ![Exploded View](images/exploded-view.png)
