@@ -30,7 +30,7 @@ This project involves the 3D modeling, assembly, simulation, and rendering of a 
 ![Exploded View](images/exploded-view.png)
 
 ### 🔹 Rendered View
-![Rendered View](images/rendered-view.png)
+![Rendered Oil Valve](https://github.com/Nassor-Salum/fluid-control-valve/blob/main/Rendered%20Oil%20Valve%20(1).png?raw=true)
 
 ---
 
