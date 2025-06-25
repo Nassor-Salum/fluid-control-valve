@@ -35,10 +35,9 @@ This project involves the 3D modeling, assembly, simulation, and rendering of a 
 
 ---
 
-### 🎞️ Disassembly Animation
+## 🎞️ Disassembly Animation
 
-📥 [Click here to download and watch the disassembly animation (AVI)](https://github.com/Nassor-Salum/fluid-control-valve/blob/main/Oil%20Valve%20v7.avi)
-
+▶️ [Click here to watch the disassembly animation](https://drive.google.com/file/d/1-BdUUIWZbmoIM7lZNpQBGF0SETAfhktn/view?usp=drivesdk)
 
 ---
 
